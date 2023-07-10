@@ -1,5 +1,6 @@
 ::hello.hoon
 ::  test file used for verifying the tree-sitter grammar
 |%
-++  arm  1
+++  arm-one  123
+++  arm-two  |=  i=@ud  i
 --
